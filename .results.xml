@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.484"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">pytests/test_index.py:2: in &lt;module&gt;
+    from ipynb.fs.full.index import x
+index.ipynb:371: in &lt;module&gt;
+    &quot;There are lots of ways to use automated tests to improve your projects. If you’re writing some code and you want to make sure that it behaves as expected, it often makes sense to write tests (a) to make sure that it works the way you think it should and (b) to ensure that you don’t break it as you make changes to your code over time. It also allows you to start with the most important use cases and then explore and document edge cases over time.\n&quot;,
+E   NameError: name &apos;x&apos; is not defined</error></testcase></testsuite>
